@@ -52,6 +52,7 @@ export const CONTACTS: Contact[] = [
         preview: "Responsable du service informatique",
         date: "18/06",
         status: "Occupee",
+        avatarSrc: avatar("MS2.jpg"),
         avatarClassName: "bg-gradient-to-br from-amber-100 to-amber-300",
         avatarTextClassName: "text-amber-800",
         conversation: [
